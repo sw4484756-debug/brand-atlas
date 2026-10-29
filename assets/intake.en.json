@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {"title": "1. Which brand or specific product should we research? Brand traits or a signature-product clue also work."},
+    {"title": "2. Which country or market are you targeting? Multiple countries or representative global markets are allowed."},
+    {"title": "3. How many competitors? Excludes your brand; total across all selected markets unless you specify otherwise.", "options": ["3 competitors (Recommended)", "5 competitors", "7 competitors"]},
+    {"title": "4. Any competitors that must be included? You may enter brand or product names.", "options": ["Select automatically"]},
+    {"title": "5. Which comparison dimensions? You may enter X, Y and additional dimensions.", "options": ["Recommend 4 dimensions (Recommended)", "Price plus one recommended dimension"]},
+    {"title": "6. Who is the audience, or what is the research objective?", "options": ["No specific audience or objective yet"]},
+    {"title": "7. Any official site, product link or additional characteristics?", "options": ["No additional material"]},
+    {"title": "8. Choose research depth. Quick covers the selected scope; In-depth adds corroboration and market detail.", "options": ["Quick first pass (Recommended)", "In-depth research"]}
+  ]
+}
