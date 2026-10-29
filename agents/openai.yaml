@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Atlas 品牌定位"
+  short_description: "先填写品牌、市场与维度，集中研究竞品并生成中英双语可编辑定位报告"
+  default_prompt: "使用 $brand-positioning，运行 Brand Atlas，先打开分项问卷，让我填写品牌、目标市场、竞品数量和对比维度，默认快速首版，保留报告编辑与 PNG 导出。"
