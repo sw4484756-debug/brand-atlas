@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "title": "精品咖啡，四种品牌路径",
+  "category": "城市精品咖啡",
+  "market": "中国大陆 · 城市咖啡消费",
+  "generatedAt": "2026-10-28T09:00:00+11:00",
+  "mode": "illustrative",
+  "primaryId": "b0",
+  "dimensions": [
+    {
+      "id": "price",
+      "name": "价格定位",
+      "low": "亲民日常",
+      "high": "高端溢价",
+      "rubric": "在同市场、同规格咖啡的常规售价中比较：0 为入门价位，50 为中等价位，100 为高端价位。示例分值仅作交互演示。"
+    },
+    {
+      "id": "experience",
+      "name": "消费体验",
+      "low": "便捷效率",
+      "high": "沉浸体验",
+      "rubric": "考察消费场景、服务与空间投入：0 为纯效率导向，50 为平衡，100 为深度体验导向。两端都是有效商业选择。"
+    },
+    {
+      "id": "design",
+      "name": "设计表达",
+      "low": "功能导向",
+      "high": "审美导向",
+      "rubric": "根据视觉、产品、空间与包装的可观察特征进行相对评估：0 为功能优先，50 为平衡，100 为审美表达优先。"
+    },
+    {
+      "id": "innovation",
+      "name": "产品创新",
+      "low": "经典成熟",
+      "high": "前沿实验",
+      "rubric": "比较已推出产品的创新程度与独特性：0 为经典稳定，50 为适度迭代，100 为高度实验；不把宣传或未来计划当成已实现。"
+    }
+  ],
+  "brands": [
+    {
+      "id": "b0",
+      "name": "山野咖啡",
+      "website": "",
+      "positioning": "以自然美学和社区体验连接城市消费者",
+      "audience": "重视美学与社区连接的城市年轻人",
+      "strengths": [
+        "自然美学",
+        "社区连接",
+        "日常仪式"
+      ],
+      "scores": {
+        "price": {
+          "value": 60,
+          "rationale": "虚构示例设定：山野咖啡在「价格定位」上为 60 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "experience": {
+          "value": 80,
+          "rationale": "虚构示例设定：山野咖啡在「消费体验」上为 80 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "design": {
+          "value": 85,
+          "rationale": "虚构示例设定：山野咖啡在「设计表达」上为 85 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "innovation": {
+          "value": 70,
+          "rationale": "虚构示例设定：山野咖啡在「产品创新」上为 70 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "b1",
+      "name": "City Brew",
+      "website": "",
+      "positioning": "在城市商业空间提供稳定品质与效率",
+      "audience": "商务及通勤人群",
+      "strengths": [
+        "品质稳定",
+        "商业渠道"
+      ],
+      "scores": {
+        "price": {
+          "value": 85,
+          "rationale": "虚构示例设定：City Brew在「价格定位」上为 85 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "experience": {
+          "value": 65,
+          "rationale": "虚构示例设定：City Brew在「消费体验」上为 65 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "design": {
+          "value": 70,
+          "rationale": "虚构示例设定：City Brew在「设计表达」上为 70 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "innovation": {
+          "value": 55,
+          "rationale": "虚构示例设定：City Brew在「产品创新」上为 55 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "b2",
+      "name": "Daily Cup",
+      "website": "",
+      "positioning": "提供高频、便捷、易获得的日常咖啡",
+      "audience": "价格敏感的高频消费者",
+      "strengths": [
+        "便捷可及",
+        "高频消费"
+      ],
+      "scores": {
+        "price": {
+          "value": 20,
+          "rationale": "虚构示例设定：Daily Cup在「价格定位」上为 20 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "experience": {
+          "value": 25,
+          "rationale": "虚构示例设定：Daily Cup在「消费体验」上为 25 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "design": {
+          "value": 35,
+          "rationale": "虚构示例设定：Daily Cup在「设计表达」上为 35 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "innovation": {
+          "value": 75,
+          "rationale": "虚构示例设定：Daily Cup在「产品创新」上为 75 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "b3",
+      "name": "Slow House",
+      "website": "",
+      "positioning": "围绕慢生活打造手作与空间体验",
+      "audience": "偏好慢生活、手作与空间氛围的爱好者",
+      "strengths": [
+        "手作体验",
+        "空间氛围"
+      ],
+      "scores": {
+        "price": {
+          "value": 75,
+          "rationale": "虚构示例设定：Slow House在「价格定位」上为 75 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "experience": {
+          "value": 90,
+          "rationale": "虚构示例设定：Slow House在「消费体验」上为 90 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "design": {
+          "value": 80,
+          "rationale": "虚构示例设定：Slow House在「设计表达」上为 80 分，用于展示相对位置；这不是来自真实研究的判断。",
+          "confidence": "low",
+          "basis": "assessed",
+          "sourceIds": []
+        },
+        "innovation": {
+          "value": null,
+          "rationale": "演示证据缺口：没有足够的产品创新资料，暂不评分。选择此维度时，该品牌不会出现在图中。",
+          "confidence": "low",
+          "basis": "unknown",
+          "sourceIds": []
+        }
+      }
+    }
+  ],
+  "sources": [],
+  "summary": "在这个虚构的咖啡市场中，山野咖啡以中高价格、自然美学和社区体验形成组合。相较 City Brew 的商业效率、Daily Cup 的日常可及性和 Slow House 的慢生活体验，可进一步验证「日常可进入的自然体验」是否对应真实的消费需求。",
+  "summarySourceIds": [],
+  "opportunities": [
+    {
+      "title": "让自然体验成为日常",
+      "detail": "示例中，山野咖啡在设计与体验上形成组合。比单纯强调精品，更值得检验特定人群是否需要一个有审美、能重复到访的日常场景。",
+      "action": "访谈 8–12 位目标消费者，识别他们愿意重复消费的场景，以及愿意为之支付的溢价。",
+      "sourceIds": []
+    },
+    {
+      "title": "用产品证明品牌主张",
+      "detail": "「自然」可以从视觉延伸到产品、空间与社区活动。这个方向是否成立，取决于消费者能否从具体体验中识别差异。",
+      "action": "试推出一款标志性产品和一场社区活动，测试品牌记忆、复购意愿与实际运营成本。",
+      "sourceIds": []
+    },
+    {
+      "title": "把空白当作待验证的问题",
+      "detail": "图上的空白可能来自样本有限，也可能没有足够需求。不同维度组合可以帮助提问，但不能单靠坐标决定进入哪个市场。",
+      "action": "在进入新价位或场景前，先做小范围概念与价格测试；补全 Slow House 的产品创新证据。",
+      "sourceIds": []
+    }
+  ],
+  "limitations": [
+    "本示例中的品牌、分值及分析均为演示设定，与现实中同名企业无关，不是实测结果。",
+    "正式研究使用公开资料与 AI 相对评估，不等同于消费者感知调查。",
+    "高分表示更接近该维度高端点，不代表综合竞争力更强。",
+    "Slow House 的产品创新资料不足，使用该维度时不会将它绘入图中。"
+  ]
+}
